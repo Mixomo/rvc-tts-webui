@@ -221,7 +221,7 @@ def tts(
 
 
 initial_md = """
-# TTS + Conversor de voz Elmo
+# TTS + Conversor de voz
 """
 
 app = gr.Blocks()
